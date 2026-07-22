@@ -13,11 +13,11 @@ Lưu ý: Các thông tin dưới đây chỉ nhằm mục đích tham khảo, vu
 Trong quá trình thực tập, em đã tham gia 3 events. Mỗi event là một trải nghiệm đáng nhớ, giúp em tiếp cận thêm kiến thức mới về cloud, AI, bảo mật, kiến trúc hệ thống, định hướng nghề nghiệp và kỹ năng làm việc nhóm.
 
 ### [Event 1](4.1-Event1/)
-&emsp;**Tên sự kiện:** GenAI-powered App-DB Modernization workshop
+&emsp;**Tên sự kiện:** FCAJ Community Day
 
-&emsp;**Thời gian:** 09:00 ngày 13/08/2025
+&emsp;**Thời gian:** 09:00 - 12:00, ngày 23/05/2026
 
-&emsp;**Địa điểm:** Tầng 26, tòa nhà Bitexco, số 02 đường Hải Triều, phường Sài Gòn, thành phố Hồ Chí Minh
+&emsp;**Địa điểm:** Bitexco Financial Tower, số 2 đường Hải Triều, phường Sài Gòn, Thành phố Hồ Chí Minh
 
 &emsp;**Vai trò trong sự kiện:** Người tham dự
 
