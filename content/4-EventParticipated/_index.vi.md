@@ -24,11 +24,11 @@ Trong quá trình thực tập, em đã tham gia 3 events. Mỗi event là một
 ---
 
 ### [Event 2](4.2-Event2/)
-&emsp;**Tên sự kiện:** GenAI-powered App-DB Modernization workshop
+&emsp;**Tên sự kiện:** First Cloud Journey Meetup 30/05/2026
 
-&emsp;**Thời gian:** 09:00 ngày 13/08/2025
+&emsp;**Thời gian:** Ngày 30/05/2026
 
-&emsp;**Địa điểm:** Tầng 26, tòa nhà Bitexco, số 02 đường Hải Triều, phường Sài Gòn, thành phố Hồ Chí Minh
+&emsp;**Địa điểm:** Bitexco - AWS Office, Thành phố Hồ Chí Minh; tài liệu được chia sẻ qua Google Drive
 
 &emsp;**Vai trò trong sự kiện:** Người tham dự
 

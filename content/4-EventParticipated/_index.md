@@ -24,11 +24,11 @@ During my internship, I participated in three events. Each event helped me expan
 ---
 
 ### [Event 2](4.2-Event2/)
-&emsp;**Event Name:** GenAI-powered App-DB Modernization workshop
+&emsp;**Event Name:** First Cloud Journey Meetup 30/05/2026
 
-&emsp;**Date & Time:** 09:00, August 13, 2025
+&emsp;**Date & Time:** May 30, 2026
 
-&emsp;**Location:** 26th Floor, Bitexco Tower, 02 Hai Trieu Street, Saigon Ward, Ho Chi Minh City
+&emsp;**Location:** Bitexco - AWS Office, Ho Chi Minh City; materials shared via Google Drive
 
 &emsp;**Role:** Attendee
 
