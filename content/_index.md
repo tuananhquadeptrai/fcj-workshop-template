@@ -13,23 +13,23 @@ chapter: false
 {{% /notice %}}
 
 ### Student Information:
-&emsp; **Full Name:** Nguyen Van A
+&emsp; **Full Name:** Nguyen Tuan Anh
 
-&emsp; **Phone Number:** 0989888999 
+&emsp; **Phone Number:** 0909940715
 
-&emsp; **Email:** Anguyenvan@gmail.com
+&emsp; **Email:** anhanhanh12062004@gmail.com
 
-&emsp; **University:** Ho Chi Minh City University of Technology and Education
+&emsp; **University:** Dai Hoc Cong Nghe Thanh Pho Ho Chi Minh (Hutech)
 
 &emsp; **Major:** Information Technology
 
-&emsp; **Class:** AWS082025
+&emsp; **Class:** 22DTHG6
 
-&emsp; **Internship Company:** Amazon Web Services Viet Nam Company Limited
+&emsp; **Internship Company:** Cong ty TNHH Amazon Web Services Viet Nam
 
 &emsp; **Internship Position:** Workforce Bootcamp - First Cloud AI Journey
 
-&emsp; **Internship Duration:** From 12/08/2025 to 12/11/2025
+&emsp; **Internship Duration:** From 20-04-2026 to 30-07-2026
 
 ### Report Content
 
