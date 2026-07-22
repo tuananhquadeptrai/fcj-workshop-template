@@ -1,4 +1,4 @@
-baseURL = "https://workshop-sample.awsfcaj.com/"
+baseURL = "https://tuananhquadeptrai.github.io/fcj-workshop-template/"
 relativeURLs = false
 canonifyURLs = false
 defaultContentLanguage = "en"
@@ -16,7 +16,7 @@ home = [ "HTML", "RSS", "JSON"]
   # Git hub repo link
   editURL = ""
   description = ""
-  author = "thienlh@thienlu.com"
+  author = "TuanAnh <anhanhanh12062004@gmail.com>"
   showVisitedLinks = true
   disableBreadcrumb = false
   disableNextPrev = false
