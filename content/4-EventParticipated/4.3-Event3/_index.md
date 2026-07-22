@@ -125,14 +125,4 @@ After joining this meetup, I could connect several topics back to my internship 
 - Apply GraphRAG thinking when designing AI systems that need relationship-aware knowledge retrieval.
 - Improve teamwork by clarifying goals, communicating actively, and taking responsibility for assigned tasks.
 
-### Source Materials
-
-- [Google Drive folder - Meetup 06/06/2026](https://drive.google.com/drive/folders/1EgyIOIjUsgAMugJDcKKQy-AYbWkrHrLX)
-- [Bảo Huỳnh - Docker - A containerization technology](https://drive.google.com/drive/folders/1qpRFpmfOwb-AHbrw4APRmiTSpfjZY_Dd)
-- [Lê Hoàng Gia Đại - Combining AWS WAF with Machine Learning for Cyber Attack Detection on AWS](https://drive.google.com/drive/folders/1Fkoq-nKJCotiwd6GWsSMsuKcBSPQTXC7)
-- [Nguyễn Quốc Bảo - Multiplayer in the Cloud: Connecting Godot Clients with AWS WebSockets](https://drive.google.com/drive/folders/1-wlxBy6Eg5bOEYTjuS8zaB6MYbPRC9yw)
-- [Việt Phát - AWS Neptune for Building a Graph Knowledge Base for GraphRAG](https://drive.google.com/drive/folders/10ypP0w7-FU-9V3LchKt8BtFMZygQKAQy)
-- [Vinh Trần - From IT Helpdesk to Senior Sysadmin and Cloud/DevOps](https://drive.google.com/drive/folders/14r_vXgYASaiKVLNfyItGhPRFOc1KnMg9)
-- [Trương Phước - Cách làm việc nhóm hiệu quả](https://drive.google.com/drive/folders/1MNMCLw125EnCiFSffPqGtrhJCnRM_5Yw)
-
 > Overall, this meetup helped me broaden my view of technology beyond one narrow area. I learned how cloud-native development, security, AI knowledge systems, game networking, infrastructure careers, and teamwork can support each other in real projects.

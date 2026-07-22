@@ -105,8 +105,4 @@ After participating in this event, I could connect the knowledge to my internshi
 - When studying AI agents, I should pay attention to guardrails, role separation, evaluation, and explainability.
 - When collaborating with teammates, I should learn from the hackathon mindset: communicate clearly, prioritize important tasks, and keep improving through feedback.
 
-### Source
-
-- [FCAJ Community Day on Luma](https://luma.com/ubaur0y5?tk=thPksh)
-
 > Overall, FCAJ Community Day was a valuable event because it helped me see the connection between AI, cloud architecture, product building, and real-world teamwork. It also motivated me to continue learning AWS and AI with a more practical mindset.

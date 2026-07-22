@@ -139,15 +139,4 @@ Sau khi tham gia meetup này, em có thể áp dụng các bài học vào quá 
 - Cải thiện kỹ năng trình bày, chia sẻ tiến độ và bảo vệ ý tưởng trong nhóm.
 - Nhìn các lỗi trong dự án theo hướng DevOps: tìm nguyên nhân gốc, cải thiện quy trình và rút ngắn feedback loop.
 
-### Tài liệu tham khảo
-
-- [Google Drive folder - Meetup 30/05/2026](https://drive.google.com/drive/folders/1OXuNUew4jp1S-p_I1AYHV2Qcgbe8ZgU0?usp=sharing)
-- [Huỳnh Thái Linh - Level Up Your AWS Skills with Cloud Quest and Floci](https://drive.google.com/drive/folders/1UMdkrojek3oe3fuNom6PTDE30ZS0xJLV)
-- [Phạm Khắc Uy - The Iceberg of Procrastination](https://drive.google.com/drive/folders/17m76j6kY3yT2urMKQmeNe8l4R9XCG3Dr)
-- [Nguyễn Thị Quỳnh Như - Why We Always Need Confidence](https://drive.google.com/drive/folders/1joW-Z9pKBon_P4h_cIXhGY1JJJO24lxK)
-- [Phạm Quang Thái - How Cloud Architecture Powers Modern Multiplayer Games](https://drive.google.com/drive/folders/1v8mtmIrLT4q8eI1hdhwiAt9Y7GVyYRwx)
-- [The Ballers - Hackathon - More Like HA! A Tons, of Fun](https://drive.google.com/drive/folders/1Tf5xqVzdVfrMenNmiHmLZenkXhJhDyR9)
-- [Trần Hữu Nghĩa - A Comprehensive Astrology Platform for the New Generation](https://drive.google.com/drive/folders/1YNLBrJiyBTd1KdrS8qRLcZiaoV7MLJiD)
-- [Trần Minh Quân - The Hidden Iceberg of a Project: DevOps Before Disaster](https://drive.google.com/drive/folders/1-siZ5V9sBnWCslilHeha8LcV5zg1zAgW)
-
 > Tổng thể, meetup này giúp em nhận ra rằng hành trình phát triển trong ngành công nghệ không chỉ nằm ở việc học thêm công cụ mới. Người học còn cần biết quản lý nỗi sợ, xây dựng sự tự tin, thực hành qua dự án thật, hiểu cách hệ thống vận hành và phối hợp tốt với đội nhóm.

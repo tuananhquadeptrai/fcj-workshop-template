@@ -139,15 +139,4 @@ After joining this meetup, I can apply several lessons to my internship:
 - Improve presentation skills, progress sharing, and the ability to defend ideas in a team.
 - Look at project issues through a DevOps mindset: find root causes, improve the process, and shorten feedback loops.
 
-### Source Materials
-
-- [Google Drive folder - Meetup 30/05/2026](https://drive.google.com/drive/folders/1OXuNUew4jp1S-p_I1AYHV2Qcgbe8ZgU0?usp=sharing)
-- [Huynh Thai Linh - Level Up Your AWS Skills with Cloud Quest and Floci](https://drive.google.com/drive/folders/1UMdkrojek3oe3fuNom6PTDE30ZS0xJLV)
-- [Khac Uy Pham - The Iceberg of Procrastination](https://drive.google.com/drive/folders/17m76j6kY3yT2urMKQmeNe8l4R9XCG3Dr)
-- [Nguyen Thi Quynh Nhu - Why We Always Need Confidence](https://drive.google.com/drive/folders/1joW-Z9pKBon_P4h_cIXhGY1JJJO24lxK)
-- [Pham Quang Thai - How Cloud Architecture Powers Modern Multiplayer Games](https://drive.google.com/drive/folders/1v8mtmIrLT4q8eI1hdhwiAt9Y7GVyYRwx)
-- [The Ballers - Hackathon - More Like HA! A Tons, of Fun](https://drive.google.com/drive/folders/1Tf5xqVzdVfrMenNmiHmLZenkXhJhDyR9)
-- [Tran Huu Nghia - A Comprehensive Astrology Platform for the New Generation](https://drive.google.com/drive/folders/1YNLBrJiyBTd1KdrS8qRLcZiaoV7MLJiD)
-- [Tran Minh Quan - The Hidden Iceberg of a Project: DevOps Before Disaster](https://drive.google.com/drive/folders/1-siZ5V9sBnWCslilHeha8LcV5zg1zAgW)
-
 > Overall, this meetup helped me understand that growth in technology is not only about learning more tools. It also requires managing fear, building confidence, practicing through real projects, understanding how systems operate, and collaborating well with a team.
