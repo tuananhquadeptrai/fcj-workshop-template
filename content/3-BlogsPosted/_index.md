@@ -18,5 +18,5 @@ This blog summarizes three important protocols in Agentic AI architecture on Ama
 ###  [Blog 2 - Ways to Control Web Application Access on AWS with Amazon Cognito](3.2-Blog2/)
 This blog presents three patterns for controlling access to web applications with Amazon Cognito: integration with an Application Load Balancer, API Gateway, and CloudFront with AWS Lambda. It compares how each pattern works, its advantages and limitations, and the use cases it best supports.
 
-###  [Blog 3 - ...](3.3-Blog3/)
-This blog introduces the newly added session policies feature in Amazon EKS Pod Identity, which allows you to narrow IAM permissions flexibly and precisely for each pod without needing to create multiple separate IAM roles. This is an important step forward that helps apply the principle of least privilege more effectively in large-scale Kubernetes environments.
+###  [Blog 3 - AgentCore Harness: From Idea to a Working AI Agent with Just Two APIs](3.3-Blog3/)
+This blog introduces Amazon Bedrock AgentCore Harness, a service that packages the agent loop, tools, memory, session state, identity, and observability so developers can build AI agents faster through two main APIs: `CreateHarness` and `InvokeHarness`.

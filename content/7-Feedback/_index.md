@@ -30,13 +30,29 @@ The company provides an internship allowance and offers flexible working hours w
 ---
 
 ### Additional Questions
-- What did you find **most satisfying** during your internship?  
-- What do you think the company **should improve** for future interns?  
-- If recommending to a friend, would you **suggest they intern here**? Why or why not?  
 
----
+#### What did you find most satisfying during your internship?
+
+The thing I felt most satisfied with during the internship was that I had the opportunity to access many new areas of knowledge. In particular, through the weekly Saturday events, I had the chance to listen to speakers share different topics, from cloud and AI to real working experience. These sharing sessions helped me broaden my perspective and gave me more motivation to keep learning.
+
+#### What do you think the company should improve for future interns?
+
+Overall, the program supported interns quite well. If there is something to improve, I think the company could organize more periodic progress review sessions so interns can understand what they are doing well and what they need to improve.
+
+#### If recommending to a friend, would you suggest they intern here? Why or why not?
+
+Yes. I would recommend this internship to friends who are interested in AWS, cloud, and a learning environment that encourages self-study. The program not only helped me gain technical knowledge, but also helped me practice report writing, document research, and participation in community activities.
 
 ### Suggestions & Expectations
-- Do you have any suggestions to improve the internship experience?  
-- Would you like to continue this program in the future?  
-- Any other comments (free sharing):
+
+#### Do you have any suggestions to improve the internship experience?
+
+At the moment, I do not have any additional suggestions.
+
+#### Would you like to continue this program in the future?
+
+If I have the opportunity, I would like to continue joining this program in the future because I feel it is a good environment for learning and developing my skills.
+
+#### Any other comments
+
+I would like to thank the mentors and admin team for supporting me and creating favorable conditions throughout my internship. Thanks to this program, I gained many new experiences and understood more clearly the learning and career direction in the cloud field.

@@ -26,15 +26,29 @@ Văn hóa mọi người rất tích cực, rất hay đặt câu hỏi nhưng v
 **6. Chính sách / phúc lợi cho thực tập sinh**  
 
 ### Một số câu hỏi khác
-- Điều bạn **hài lòng nhất** trong thời gian thực tập?  
-- Trả lời cho câu đầu tiên thì mình thấy được học nhiều thứ, thông qua các event của các thứ 7 hằng tuần mình luôn nghe các anh chị khởi màn cho các kiến thức lạ từ các cty khác
-- Điều bạn nghĩ công ty **cần cải thiện** cho các thực tập sinh sau?  
-- Nếu giới thiệu cho bạn bè, bạn có **khuyên họ thực tập ở đây không**? Vì sao?  
 
+#### Điều bạn hài lòng nhất trong thời gian thực tập?
+
+Điều em hài lòng nhất là trong thời gian thực tập em được tiếp cận nhiều kiến thức mới. Đặc biệt, thông qua các buổi event vào thứ Bảy hằng tuần, em có cơ hội lắng nghe các anh chị chia sẻ về nhiều chủ đề khác nhau, từ cloud, AI đến kinh nghiệm làm việc thực tế. Những buổi chia sẻ này giúp em mở rộng góc nhìn và có thêm động lực để tiếp tục học hỏi.
+
+#### Điều bạn nghĩ công ty cần cải thiện cho các thực tập sinh sau?
+
+Nhìn chung chương trình đã hỗ trợ thực tập sinh khá tốt. Nếu có thể cải thiện thêm, em nghĩ công ty nên có thêm các buổi review tiến độ định kỳ để thực tập sinh biết mình đang làm tốt phần nào và cần cải thiện phần nào.
+
+#### Nếu giới thiệu cho bạn bè, bạn có khuyên họ thực tập ở đây không? Vì sao?
+
+Có. Em sẽ khuyên bạn bè tham gia nếu các bạn quan tâm đến AWS, cloud và muốn có môi trường để tự học nhiều hơn. Chương trình không chỉ giúp em học kiến thức kỹ thuật mà còn giúp em rèn luyện cách viết báo cáo, tìm hiểu tài liệu và tham gia các hoạt động cộng đồng.
 
 ### Đề xuất & mong muốn
-- Bạn có đề xuất gì để cải thiện trải nghiệm trong kỳ thực tập?
-- Không.
-- Bạn có muốn tiếp tục chương trình này trong tương lai?
-- Nếu mình có cơ hội, mình sẽ tiếp tục chương trình này cho tương lai
-- Góp ý khác (tự do chia sẻ):
+
+#### Bạn có đề xuất gì để cải thiện trải nghiệm trong kỳ thực tập?
+
+Hiện tại em chưa có đề xuất thêm.
+
+#### Bạn có muốn tiếp tục chương trình này trong tương lai?
+
+Nếu có cơ hội, em muốn tiếp tục tham gia chương trình này trong tương lai vì em cảm thấy đây là một môi trường tốt để học hỏi và phát triển thêm kỹ năng.
+
+#### Góp ý khác
+
+Em cảm ơn các anh chị đã hỗ trợ và tạo điều kiện cho em trong suốt thời gian thực tập. Nhờ chương trình này, em có thêm nhiều trải nghiệm mới và hiểu rõ hơn về hướng học tập, làm việc trong lĩnh vực cloud.
